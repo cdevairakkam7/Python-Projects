@@ -1,2 +1,6 @@
 # Python-Projects
-Interesting Python Projects
+* **Last Click Attribution Model -** Although I am a fan of multi-touch attribution model when it comes to digital ad spend and conversion all attribution companies use last click attribution as thier stock algorithm to measure succcess at the begining. Here is the [python code](https://github.com/cdevairakkam7/Python-Projects/blob/master/Last%20Click%20Attribution%20Model.py) to measure last click attribution model.
+
+* **Last Non Direct Click Attribution -** If a potential user is familar with the product or the website it is highly likely that the user got organically converted at the very end of the conversion process but this don't tell the entire story.In many cases when the ad spend increases organic conversion increases too. A efficient way to measure this using last non direct click attribution model. This [model](https://github.com/cdevairakkam7/Python-Projects/blob/master/Last%20Non%20Direct%20Click%20Attribution%20Model.py) ignores direct clicks to the website until it finds a paid source.  
+
+* **E-Commerce Fraud Prevention -** Any company that makes revenue has a payment system associated with it products. If a user of the product tries to buy a product far away from his/her original location it might raise suspicision. In order to flag this user one has to find the distance between base location ip address and purchased location ip address. Here is the [code](https://github.com/cdevairakkam7/Python-Projects/blob/master/Distance%20Between%20Two%20IP%20Addresses.py) to find it.  
